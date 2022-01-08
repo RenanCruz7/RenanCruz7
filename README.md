@@ -1,5 +1,14 @@
 ### Olá Eu sou o Renan Cruz 7 😊
 
+🎒 Estudando Front-End (HTML, CSS e Javascript)
+
+🐊 Animal Favorito Jacaré
+
+🎮 Gosto de jogar jogos onlines principalmente Valorant
+
+📙 Estou fazendo Faculdade de Ciencias da Computação 
+
+
 <div align="center">
   <a href="https://github.com/RenanCruz7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanCruz7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
