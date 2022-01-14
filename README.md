@@ -15,7 +15,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCruz7&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+  <a>
   
+  </a>
   <div style="display: inline_block"><br>
   <img align="center" alt="Ren-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ren-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
