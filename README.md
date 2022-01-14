@@ -13,6 +13,7 @@
   <a href="https://github.com/RenanCruz7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanCruz7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCruz7&layout=compact&langs_count=10&theme=dracula"/>
+   a>
 </div>
   
   <div style="display: inline_block"><br>
