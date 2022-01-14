@@ -12,7 +12,6 @@
 <div align="center">
   <a href="https://github.com/RenanCruz7">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenanCruz7&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCruz7&theme=dracula&layout=compact"/>
   </a>
 </div>
 
