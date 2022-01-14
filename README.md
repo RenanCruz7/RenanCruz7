@@ -16,9 +16,7 @@
   </a>
 </div>
 
-  <a>
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?RenanCruz7" frameborder="0"></iframe>
-  </a>
+
   
 </div>
   </a>
