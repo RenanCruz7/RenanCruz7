@@ -8,6 +8,7 @@
 
 📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 5 semestre
 
+📙 Aluno da Alura
 
 <div align="center">
   <a href="https://github.com/RenanCruz7">
