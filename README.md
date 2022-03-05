@@ -2,8 +2,6 @@
 
 🎒 Estudando Front-End (HTML, CSS e Javascript)
 
-🐊 Animal Favorito Jacaré
-
 🎮 Gosto de jogar jogos onlines principalmente Valorant
 
 📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 5 semestre
