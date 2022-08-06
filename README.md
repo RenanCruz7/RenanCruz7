@@ -4,7 +4,7 @@
 
 🎮 Gosto de jogar jogos onlines principalmente Valorant
 
-📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 5 semestre
+📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 6 semestre
 
 📙 Aluno da Alura
 
