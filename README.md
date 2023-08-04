@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5004&pause=1000&width=435&lines=Ola+Eu+sou+o+Renan)](https://git.io/typing-svg)
 
-🎒 Estudando Front-End (HTML, CSS e Javascript)
+🎒 Estudo Front-End (React,Typescript,Next)
 
 🎮 Gosto de jogar jogos onlines principalmente Valorant
 
-📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 6 semestre
+📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 8 semestre
 
 📙 Aluno da Alura
 
