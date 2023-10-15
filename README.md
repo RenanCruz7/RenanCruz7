@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5004&pause=1000&width=435&lines=Ola+Eu+sou+o+Renan)](https://git.io/typing-svg)
 
-🎒 Estudo Front-End (React,Typescript,Next)
+🎒 Estudo Front-End mas também me arrisco um pouco no Back-End (Angular,Typescript,JAVA)
 
 🎮 Gosto de jogar jogos onlines principalmente Valorant
 
