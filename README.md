@@ -8,7 +8,8 @@
 
 📙 Aluno da Alura
 
-
+### Treak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renancruz7&theme=algolia" alt="oribendet"  />
 
 
 
