@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5004&pause=1000&width=435&lines=Ola+Eu+sou+o+Renan)](https://git.io/typing-svg)
 
-🎒 Estudo Front-End mas também me arrisco um pouco no Back-End (Angular,Typescript,JAVA)
+🎒 Sou um desenvolvedor FullStack e meus projetos se baseiam nas seguintes tecnologias(Angular,React,Java,C#,SQL,Typescript)
 
 🎮 Gosto de jogar jogos onlines principalmente Valorant
 
-📙 Estou fazendo Faculdade de Ciencias da Computação atualmente me encontro no 8 semestre
+📙 Sou formado em Ciências da Computação pela faculdade UNISANTOS
 
 📙 Aluno da Alura
 
