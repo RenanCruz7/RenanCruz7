@@ -2,11 +2,9 @@
 
 🎒 Sou um desenvolvedor FullStack e meus projetos se baseiam nas seguintes tecnologias(Angular,React,Java,C#,SQL,Typescript)
 
-🎮 Gosto de jogar jogos onlines principalmente Valorant
+🎮 Gosto de jogar jogos onlines principalmente League of Legends
 
 📙 Sou formado em Ciências da Computação pela faculdade UNISANTOS
-
-📙 Aluno da Alura
 
 ### Treak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=renancruz7&theme=algolia" alt="oribendet"  />
